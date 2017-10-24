@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(150, 150, 150);
+}
+
+.container .jumbotron {
+    border-radius: 0;
+    background-color: rgb(12, 59, 93);
+    color: white;
+}
+.thing {
+    position: relative;
+}
+
+.thing h3.row {
+    float: left;
+    margin-right: 20px;
+}
+
+.thing a {
+    margin-top: 15px;
+}
